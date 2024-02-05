@@ -1,2 +1,3 @@
 # HackerRank
-Solving HackerRank Questions
+Solving HackerRank Questions 👩‍💻
+Languages Used: Java
